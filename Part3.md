@@ -11,4 +11,5 @@ For the class project, teams could include information from public financial sta
 References
 
 Segal, Troy. “Fundamental Analysis: Principles, Types, and How to Use It.” Investopedia, April 29, 2025. https://www.investopedia.com/terms/f/fundamentalanalysis.asp.
+
 TD Bank. “Guide to Fundamental Analysis for Trading.” Fundamental analysis for trading | TD Direct Investing. Accessed May 17, 2025. https://www.td.com/ca/en/investing/direct-investing/articles/fundamental-analysis. 
